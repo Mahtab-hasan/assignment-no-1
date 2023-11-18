@@ -1,0 +1,205 @@
+@media (max-width: 425px) {
+  .navbar-brand img {
+    width: 200px;
+  }
+  .searchbtn input {
+    margin: 6px 0 0 38px;
+  }
+  .navbar-nav {
+    margin: 0 7px 0px 82px;
+    gap: 10px;
+    font-size: 22px;
+    color: #fff;
+    background: #1a187a;
+    border-radius: 19px;
+    height: 215px;
+  }
+  .nav-item {
+    padding: 0px 25px;
+  }
+  .shopcardicon {
+    padding: 0px 27px;
+  }
+  .parent_title {
+    padding-top: 11%;
+  }
+  .parent_title {
+    text-align: center;
+  }
+  .parent_title h4 {
+    padding-left: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 29px;
+    font-family: "Montserrat", sans-serif;
+  }
+  .iphone {
+    margin: 0px 0% 0 15%;
+
+    font-size: 35px;
+
+    letter-spacing: 1.04px;
+
+    font-family: "Montserrat", sans-serif;
+
+    line-height: 24px;
+  }
+  .pro {
+    font-size: 35px;
+
+    letter-spacing: 0.04px;
+
+    line-height: 22px;
+
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .btnshop {
+    display: none;
+  }
+
+  .parent_title p {
+    font-size: 13px;
+  }
+  .parent_iphone img {
+    padding: 11% 0% 0% 9%;
+    height: 100%;
+    width: 92%;
+  }
+  .informationsection {
+    display: block;
+  }
+  .informationsection {
+    display: block;
+  }
+  .text_infor h1 {
+    font-size: 41px;
+  }
+  .text_infor p {
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+  }
+  .pareninforchild2 {
+    background-image: url(images/headphone.png);
+    background-position: right center;
+    background-size: auto;
+    background-repeat: no-repeat;
+  }
+  .text_infor2 h1 {
+    font-size: 47px;
+    font-family: "Montserrat", sans-serif;
+    padding-left: 52px;
+  }
+  .text_infor2 p {
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    padding-left: 55px;
+  }
+
+  .parentmaC {
+    min-height: 683px;
+    display: flex;
+    align-items: center;
+    padding: 100px 0px 0px 23px;
+    background: #ededed;
+  }
+  .mac_text {
+    padding-left: 8px;
+  }
+  .maclaptop {
+    display: block;
+  }
+  .maclaptop img {
+    width: 350px;
+    padding: 84px 0 55px 0;
+  }
+
+  .iconsparent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+  .iconlinks {
+    margin-top: 22px;
+  }
+  .iconlinks2 {
+    margin-top: 22px;
+  }
+  .titledescrip {
+    text-align: center;
+    margin: 75px 0 0px 21px;
+  }
+  .titleseller {
+    gap: 16px;
+    font-size: 16px;
+  }
+  .cards {
+    height: 423px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  .cardsparent {
+    display: block;
+  }
+
+  .card_img_top {
+    width: 48%;
+    margin: 0;
+  }
+  .card_body p {
+    font-size: 15px;
+    padding-top: 13px;
+  }
+  .rightimg {
+    margin: 0;
+  }
+  .description_part {
+    background: #958ad4;
+    background-image: url(images/leftimg.png);
+    background-position: bottom right;
+    background-size: auto;
+    background-repeat: no-repeat;
+    margin: 80px 0 0 0px;
+    height: 137vh;
+  }
+
+  footer {
+    background: #0e071b;
+  }
+
+  .image_infor {
+    position: relative;
+    top: 70px;
+    right: 70px;
+  }
+  .linkshereicon {
+    gap: 19px;
+    padding-top: 20px;
+    font-size: 35px;
+  }
+  .servcice {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 14px;
+  }
+  .Assistances {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 14px;
+  }
+  .footericncol {
+    display: none;
+  }
+  .lastpartfooter {
+    padding-bottom: 100px;
+    display: block;
+  }
+  .footerlogo {
+    padding-top: 27%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
